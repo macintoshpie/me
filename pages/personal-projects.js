@@ -8,7 +8,7 @@ const projects = [
   {
     title: 'liztz',
     inProgress: true,
-    url: 'https://liztz.netlify.app/',
+    url: 'https://liztz.tedsummer.com/',
     tags: ['Vue', 'Netlify', 'AWS Lambda'],
     image: {
       url: '/images/liztz.png',
@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'tasks',
     inProgress: true,
-    url: 'https://liztz.netlify.app/',
+    url: 'https://mctasks.netlify.app/',
     tags: ['Vue', 'Netlify', 'Data Visualization'],
     image: {
       url: '/images/tasks.png',
@@ -80,7 +80,7 @@ const projects = [
   {
     title: 'jot',
     inProgress: false,
-    url: 'https://j0t.netlify.app/',
+    url: 'https://jot.tedsummer.com/',
     tags: ['Vue'],
     image: {
       url: '/images/jot.png',
