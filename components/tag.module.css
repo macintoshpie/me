@@ -1,0 +1,9 @@
+.tag {
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 5px;
+  padding: 2px 4px;
+  white-space: nowrap;
+  line-height: 2em;
+  border: 1px solid #ff97b1;
+}

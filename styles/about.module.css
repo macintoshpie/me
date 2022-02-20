@@ -1,0 +1,9 @@
+.aboutHeader {
+  display: flex;
+  justify-content: center;
+}
+
+.aboutContainer li {
+  width: fit-content;
+  background-color: #fae7ff;
+}

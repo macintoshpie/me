@@ -1,0 +1,13 @@
+.resumeSection {
+  padding: 10px;
+  background-color: #FFF;
+  margin: 20px;
+}
+
+.resumeSection h3 {
+  margin: 10px 0 2px 0;
+}
+
+.resumeSection p {
+  margin: 5px 0;
+}

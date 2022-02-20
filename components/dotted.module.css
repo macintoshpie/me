@@ -1,0 +1,52 @@
+.dottedContainer {
+  white-space: nowrap;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+  background: #fae7ff;
+  background-image: radial-gradient(black .5px, transparent 0);
+  background-size: 3px 3px;
+  background-position: -19px -19px;
+  transition: background-size 200ms linear, background-image 200ms linear;
+  user-select: none;
+  text-shadow: -1px 0 #fae7ff, 0 1px #fae7ff, 1px 0 #fae7ff, 0 -1px #fae7ff;
+
+  border-radius: 5px;
+
+  /* ANIMATION */
+  /* animation-name: hello; */
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes hello {
+  0% {
+    background-position: -19px -19;
+  }
+
+  100% {
+    background-position: 1px -19px;
+  }
+}
+
+.dottedContainer:hover {
+  background-image: radial-gradient(black 1px, transparent 0);
+  background-size: 10px 10px;
+  /* cursor: crosshair; */
+  background-color: yellow;
+  /* border: 1px solid black; */
+  text-shadow: none;
+}
+
+.dottedContainer:hover a {
+  color: red;
+}
+
+.dottedContainer:active {
+    background: red;
+}
+
+.dottedContainer:active a {
+  color: yellow;
+}
