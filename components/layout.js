@@ -66,7 +66,7 @@ export default function Layout({ children, home }) {
             <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/tedsummer">linkedin</a>
         </h5>
         <h5>
-          <a target="_blank" rel="noopener noreferrer" href="https://replit.com/@TheodoreSummer/me">edit on replit</a>
+          <a target="_blank" rel="noopener noreferrer" href="https://replit.com/@replitted">follow me on replit</a>
         </h5>
       </footer>
     </div>
