@@ -61,7 +61,7 @@ export default function Resume() {
 
         <ResumeSection title="work experience">
           <ResumeSubSection title="product engineer">
-            <p><em>replit</em>, February 2022 - present</p>
+            <p><em>replit</em>, February 2022 - September 2024</p>
             <p>
               Bringing the the next billion software creators online.
             </p>
