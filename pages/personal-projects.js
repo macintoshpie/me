@@ -6,6 +6,18 @@ import Tag from '../components/tag'
 
 const projects = [
   {
+    title: 'tombola',
+    inProgress: false,
+    url: 'https://tombola.tedsummer.com/',
+    tags: ['Music'],
+    image: {
+      url: '/images/tombola.png',
+      width: 1094,
+      height: 1004
+    },
+    description: 'Generative music. Inspired by Teenage Engineering OP-1\'s tombola sequencer.'
+  },
+  {
     title: 'liztz',
     inProgress: true,
     url: 'https://liztz.tedsummer.com/',
