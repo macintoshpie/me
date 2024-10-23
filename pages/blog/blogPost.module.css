@@ -6,3 +6,7 @@
 .blogPost h1 {
   margin-top: 0;
 }
+
+.blogPost img {
+  max-width: 100%;
+}
